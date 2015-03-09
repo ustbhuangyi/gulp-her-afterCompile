@@ -1,5 +1,5 @@
 {
-  "name": "gulp-her-afterCompile",
+  "name": "gulp-her-aftercompile",
   "version": "0.0.1",
   "description": "optimize the compiled files if set and write them,depends gulp-her-kernel",
   "author": {
